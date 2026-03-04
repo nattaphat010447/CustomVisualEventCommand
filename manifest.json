@@ -1,0 +1,10 @@
+{
+  "Name": "Custom Visual Event Command",
+  "Author": "Jengza",
+  "Version": "1.0.0",
+  "Description": "Adds custom event commands for rendering images and spritesheets.",
+  "UniqueID": "Jengza.CustomVisualEventCommand",
+  "EntryDll": "CustomVisualEventCommand.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
