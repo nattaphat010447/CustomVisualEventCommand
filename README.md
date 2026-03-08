@@ -1,6 +1,3 @@
-# CustomVisualEventCommand
-A SMAPI framework for Stardew Valley that allows modders to easily display pixel-perfect images and sprite-sheet animations during custom events.
-
 # Custom Visual Event Command
 
 A SMAPI framework mod for Stardew Valley (1.6+) that empowers modders to display custom images and sprite-sheet animations dynamically during in-game events and cutscenes.
